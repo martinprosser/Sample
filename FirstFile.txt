@@ -1,6 +1,9 @@
+//Changes
+//renumbered all lines
+
 line 1 dev 1 change line 1
-added new line 2 - and tweaked it
 line 2
-line 3 dev 2 changed first and second
-line 4
-line 5 dev 2 change line 5
+line 3
+line 4 dev 2 changed first and second
+line 5
+line 6 dev 2 change line 5
