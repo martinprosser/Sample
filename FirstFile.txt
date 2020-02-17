@@ -1,5 +1,5 @@
 line 1 dev 1 change line 1
-added new line 2
+added new line 2 - and tweaked it
 line 2
 line 3 dev 2 changed first and second
 line 4
